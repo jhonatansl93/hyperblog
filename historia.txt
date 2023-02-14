@@ -3,3 +3,5 @@ Esta es una historia de prueba
 En este caso tenemos varias lineas y haremos nuestro primer commit en Git
 
 Continuara....
+
+agregamos una nueva linea para ver de que manera se vizualizan los cambios.
