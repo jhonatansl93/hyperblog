@@ -18,6 +18,12 @@ body
     padding: 0.5em;
 }
 
+#logo
+{
+    height: 40px;
+    width: 35px;
+}
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
